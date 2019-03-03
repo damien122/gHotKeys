@@ -2,7 +2,7 @@
 #AutoIt3Wrapper_Icon=..\diagram_v2_21.ico
 #AutoIt3Wrapper_UseX64=n
 #AutoIt3Wrapper_Res_Description=Tool to define global hotkeys for media control
-#AutoIt3Wrapper_Res_Fileversion=1.0.0.1
+#AutoIt3Wrapper_Res_Fileversion=1.0.0.2
 #AutoIt3Wrapper_Res_ProductName=gHotKeys
 #AutoIt3Wrapper_Res_CompanyName=Damien122
 #AutoIt3Wrapper_Res_LegalCopyright=Damien122
