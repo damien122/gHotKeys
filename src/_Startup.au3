@@ -198,7 +198,7 @@ Func __StartupFolder_Uninstall($bIsInstall, $sName, $sFilePath, $sCommandline, $
     EndIf
 
     If $bIsInstall Then
-        $vReturn = FileCreateShortcut($sFilePath, $sStartup & '\' & $sName & '.lnk', $sStartup, $sCommandline) > 0
+        $vReturn = FileCreateShortcut($sFilePath, $sStartup & '\' & $sName & '.lnk', @ScriptDir, $sCommandline) > 0
     Else
         $vReturn = $vReturn > 0
     EndIf
